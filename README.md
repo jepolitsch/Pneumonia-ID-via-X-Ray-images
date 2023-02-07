@@ -1,7 +1,9 @@
 # Pneumonia-ID-via-X-Ray-images
 Adrián Barreno Sánchez (adrian.barreno@alumnos.upm.es), Alberto González Delgado (alberto.gondelgado@alumnos.upm.es), Julian Elijah Politsch (julian.politsch@alumnos.upm.es), Angelo D'Angelo (angelo.dangelo@alumnos.upm.es)
 
-This repository contains the resources of Big Data Engineering subject final project (MSc Computational Biology - Universidad Politécnica de Madrid)..
+This repository contains the resources of Big Data Engineering subject final project (MSc Computational Biology - Universidad Politécnica de Madrid).
+
+All four members contributed equally, Julian did Neural Nework model, Alberto did Logistic Regression, Adrian did Random Forest Tree and Angelo did Support Vector Classification, and for that reason the evaluation should be equal for all members of the group
 
 # Aim
 
@@ -23,3 +25,6 @@ In this study, we aimed to utilize artificial intelligence (AI) to create a mode
 
 The data used in this study can be found in the following [Kaggle link]( https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
+# Analysis
+
+Find attached a Jupyter Notebook with the script and the analysis performed.
